@@ -100,12 +100,13 @@ class About extends React.Component<{}> {
                   <div className='text-28 md:text-36 pt-4 pb-6 font-semibold text-white'>Who am I?</div>
                   <div className='text-18 md:text-22 mb-1'>Hi there</div>
                   I&apos;m Valerii Semash, a skillful professional developer.<br/>
-                  AI Expert<br/>
+                  Full-Stack Web Developer<br/>
                   Working in web and mobile development for 5+ years.<br/>
-                  My projects include building Machine Learning, Deep Learning, LLM, OpenAI Integration, UI for web and mobile, web 3D &amp; 2D animation, backend implementation, 3rd party API integration, web crawling, and more.<br/>
+                  My projects include building Website, SaaS Application, Machine Learning, Deep Learning, LLM, OpenAI Integration, UI for web and mobile, web 3D &amp; 2D animation, backend implementation, 3rd party API integration, web crawling, and more.<br/>
                   <div className='h-3'></div>
                   The things I love:<br/>
                   &nbsp;&nbsp;- Learning New Skill, Updating Myself<br/>
+                  &nbsp;&nbsp;- Web Development, Mobile Application, UI/IX<br/>
                   &nbsp;&nbsp;- Python, JavaScript, TypeScript, 3D animation<br/>
                   &nbsp;&nbsp;- Build Trust and Build Long-Term Relationship<br/>
                   &nbsp;&nbsp;- Movies, Games, Billiards, Gardening<br/>

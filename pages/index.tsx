@@ -207,6 +207,9 @@ class Home extends React.Component<{}> {
           <div className='w-full h-[100vh] '>
             <div className='w-full md:w-[60%] h-full text-white font-medium flex justify-center items-center'>
               <div>
+                <div className='pb-2'>
+                  <img src="/assets/img/photo.jpg" alt="my photo" className='w-[200px] rounded-lg' />
+                </div>
                 <div className='flex items-end'>
                 <div className='text-lg md:text-36 pb-8 text-center md:text-left'>Hi, I&apos;m&nbsp;&nbsp;&nbsp;</div>
                 <div className='text-36 md:text-60 pb-8 text-center md:text-left'>Valerii Semash</div>
